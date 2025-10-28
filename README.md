@@ -71,5 +71,3 @@ Built entirely in **Power BI**, this dashboard leverages **data storytelling**, 
 
 ---
 
-## 📁 **Folder Structure**
-
